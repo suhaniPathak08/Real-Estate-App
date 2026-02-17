@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# environment variables (CRITICAL)
+.env
+.env.*
+**/.env
+**/.env.*
+
+# logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
